@@ -1,5 +1,5 @@
-PROJECT = rabbitmq_message_timestamp
-PROJECT_DESCRIPTION = RabbitMQ Message Timestamp
+PROJECT = rabbitmq_dmz_message_timestamp
+PROJECT_DESCRIPTION = RabbitMQ DMZ Message Timestamp
 
 define PROJECT_APP_EXTRA_KEYS
 	{broker_version_requirements, ["3.10.0"]}
